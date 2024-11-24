@@ -47,3 +47,5 @@ sztucznainteligencjablog.pl###newsletter-popup
 ! 5 lis 2024 https://ogladajanime.pl
 ogladajanime.pl##div.mb-3.bg-white.card.col-12:nth-of-type(2) > .py-2.p-0.justify-content-center.card-body.row
 ogladajanime.pl##div.mb-3.bg-white.card.col-12:nth-of-type(2)
+
+joemonster.org##div.indexart:nth-of-type(15)
