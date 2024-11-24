@@ -51,5 +51,10 @@ ogladajanime.pl##div.mb-3.bg-white.card.col-12:nth-of-type(2)
 joemonster.org##div.indexart:nth-of-type(15)
 
 !google
-google.com##div#SIvCob
+www.google.pl##.uU7dJb
+www.google.pl##.SSwjIe.KxwPGc
+www.google.pl##.lJ9FBc.FPdoLc > center
+www.google.pl###gws-output-pages-elements-homepage_additional_languages__als
+www.google.pl##.XDyW0e
+
 
