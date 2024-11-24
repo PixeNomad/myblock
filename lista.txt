@@ -13,6 +13,8 @@ wykop.pl##.footer
 wykop.pl##section.links-sidebar.custom-sidebar:nth-of-type(4)
 wykop.pl##.clear-styles.label.icon-more.icon.floating-btn.dropdown > li > span
 wykop.pl##.from-pagination-home-stream.home-stream.stream > .stream-top
+wykop.pl##.wide-top.hits-expander > footer
+wykop.pl##form
 
 ! 17 lis 2024 https://joemonster.org
 joemonster.org###menuJM2
