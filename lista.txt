@@ -15,6 +15,8 @@ wykop.pl##.clear-styles.label.icon-more.icon.floating-btn.dropdown > li > span
 wykop.pl##.from-pagination-home-stream.home-stream.stream > .stream-top
 wykop.pl##.wide-top.hits-expander > footer
 wykop.pl##form
+wykop.pl##.from-pagination-hits-expander-stream.hits-expander-stream.stream
+
 
 ! 17 lis 2024 https://joemonster.org
 joemonster.org###menuJM2
