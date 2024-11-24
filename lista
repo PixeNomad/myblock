@@ -1,0 +1,20 @@
+! 2024-02-07 https://wykop.pl
+wykop.pl##.mini.thin-scrollbar.left-panel
+wykop.pl##.from-pagination-hits-slider-stream.hits-slider-stream.stream > .stream-top
+wykop.pl##.from-pagination-home-stream.home-stream.stream > .stream-top
+
+! 17 lis 2024 https://joemonster.org
+joemonster.org###menuJM2
+joemonster.org###prawa_glowna
+joemonster.org##div.BoxContent:nth-of-type(8)
+joemonster.org##div.BoxContent:nth-of-type(4)
+joemonster.org##div.BoxTitle:nth-of-type(3)
+joemonster.org##div.BoxTitle:nth-of-type(7)
+joemonster.org###recommended-monster-tv-side-box > .BoxContent
+joemonster.org##div.BoxContent:nth-of-type(6)
+joemonster.org###recommended-monster-tv-side-box > .BoxTitle
+joemonster.org##div.BoxTitle:nth-of-type(5)
+joemonster.org###bopowaga
+joemonster.org##.next_box_art
+joemonster.org###footer
+
