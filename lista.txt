@@ -55,6 +55,10 @@ www.google.pl###gws-output-pages-elements-homepage_additional_languages__als
 www.google.pl##.XDyW0e
 www.google.pl##a.MV3Tnb
 
+!https://www.youtube.com
+www.youtube.com##.yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--text.yt-spec-button-shape-next
+
+
 
 
 
