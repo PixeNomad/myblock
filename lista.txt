@@ -30,6 +30,8 @@ joemonster.org##.next_box_art
 joemonster.org###footer
 ||joemonster.org/images/advert-placeholder300x600.jpg$image
 joemonster.org##div.indexart:nth-of-type(15)
+joemonster.org###googlecse
+
 
 ! 2024-04-09 https://ogladajanime.pl
 ogladajanime.pl##div.text-center.col-md-2.col-4:nth-of-type(1)
