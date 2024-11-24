@@ -2,6 +2,17 @@
 wykop.pl##.mini.thin-scrollbar.left-panel
 wykop.pl##.from-pagination-hits-slider-stream.hits-slider-stream.stream > .stream-top
 wykop.pl##.from-pagination-home-stream.home-stream.stream > .stream-top
+wykop.pl##.entry-editor.editor
+wykop.pl##.microblog-page > .microblog > .stream-top
+wykop.pl##.mini.thin-scrollbar.left-panel
+wykop.pl##.from-pagination-hits-slider-stream.hits-slider-stream.stream
+wykop.pl##section.links-sidebar.custom-sidebar:nth-of-type(2)
+wykop.pl##.entries-sidebar.custom-sidebar
+wykop.pl##.tags-sidebar.custom-sidebar
+wykop.pl##.footer
+wykop.pl##section.links-sidebar.custom-sidebar:nth-of-type(4)
+wykop.pl##.clear-styles.label.icon-more.icon.floating-btn.dropdown > li > span
+wykop.pl##.from-pagination-home-stream.home-stream.stream > .stream-top
 
 ! 17 lis 2024 https://joemonster.org
 joemonster.org###menuJM2
@@ -17,38 +28,20 @@ joemonster.org##div.BoxTitle:nth-of-type(5)
 joemonster.org###bopowaga
 joemonster.org##.next_box_art
 joemonster.org###footer
-
-! 2023-05-22 https://joemonster.org
 ||joemonster.org/images/advert-placeholder300x600.jpg$image
-
-! 2024-02-09 https://wykop.pl
-wykop.pl##.mini.thin-scrollbar.left-panel
-wykop.pl##.from-pagination-hits-slider-stream.hits-slider-stream.stream
-wykop.pl##section.links-sidebar.custom-sidebar:nth-of-type(2)
-wykop.pl##.entries-sidebar.custom-sidebar
-wykop.pl##.tags-sidebar.custom-sidebar
-wykop.pl##.footer
-wykop.pl##section.links-sidebar.custom-sidebar:nth-of-type(4)
-wykop.pl##.clear-styles.label.icon-more.icon.floating-btn.dropdown > li > span
-wykop.pl##.from-pagination-home-stream.home-stream.stream > .stream-top
+joemonster.org##div.indexart:nth-of-type(15)
 
 ! 2024-04-09 https://ogladajanime.pl
 ogladajanime.pl##div.text-center.col-md-2.col-4:nth-of-type(1)
 ogladajanime.pl##div.d-md-block.d-none.text-center.col-md-2.col-4:nth-of-type(6)
 ogladajanime.pl##div.d-md-block.d-none.text-center.col-md-2.col-4
 ogladajanime.pl##div.text-center.col-md-2.col-4
-
-! 2024-04-10 https://ogladajanime.pl
 ogladajanime.pl##.mb-4.text-center.col-12
-
-! 26 wrz 2024 https://sztucznainteligencjablog.pl
-sztucznainteligencjablog.pl###newsletter-popup
-
-! 5 lis 2024 https://ogladajanime.pl
 ogladajanime.pl##div.mb-3.bg-white.card.col-12:nth-of-type(2) > .py-2.p-0.justify-content-center.card-body.row
 ogladajanime.pl##div.mb-3.bg-white.card.col-12:nth-of-type(2)
 
-joemonster.org##div.indexart:nth-of-type(15)
+! 26 wrz 2024 https://sztucznainteligencjablog.pl
+sztucznainteligencjablog.pl###newsletter-popup
 
 !google
 www.google.pl##.uU7dJb
@@ -57,6 +50,7 @@ www.google.pl##.lJ9FBc.FPdoLc > center
 www.google.pl###gws-output-pages-elements-homepage_additional_languages__als
 www.google.pl##.XDyW0e
 www.google.pl##a.MV3Tnb
+
 
 
 
