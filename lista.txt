@@ -50,12 +50,12 @@ ogladajanime.pl##div.mb-3.bg-white.card.col-12:nth-of-type(2)
 sztucznainteligencjablog.pl###newsletter-popup
 
 !google
-||google.*^##.uU7dJb
-||google.*^##.SSwjIe.KxwPGc
-||google.*^##.lJ9FBc.FPdoLc > center
-||google.*^###gws-output-pages-elements-homepage_additional_languages__als
-||google.*^##.XDyW0e
-||google.*^##a.MV3Tnb
+google.*^##.uU7dJb
+google.*^##.SSwjIe.KxwPGc
+google.*^##.lJ9FBc.FPdoLc > center
+google.*^###gws-output-pages-elements-homepage_additional_languages__als
+google.*^##.XDyW0e
+google.*^##a.MV3Tnb
 
 !https://www.youtube.com
 www.youtube.com##.yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--text.yt-spec-button-shape-next
